@@ -1,7 +1,6 @@
 iPay
 ==========
 
-
 iPay is Drupal7 module for Bank of Georgia's iPay service integration into your Drupal site.
 
 Requirements
